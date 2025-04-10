@@ -6,7 +6,8 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: URL("images (1).jpeg");
+  background: URL("images (1).jpeg"); no-repeat center center;
+  background-size:cover;
   height: 100vh;
   display: flex;
   justify-content: center;
